@@ -1,0 +1,4 @@
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Domain\bin\Debug\Supermarket.Checkout.Domain.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Domain\bin\Debug\Supermarket.Checkout.Domain.pdb
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Domain\obj\Debug\Supermarket.Checkout.Domain.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Domain\obj\Debug\Supermarket.Checkout.Domain.pdb

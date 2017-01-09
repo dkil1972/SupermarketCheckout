@@ -1,0 +1,9 @@
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\Supermarket.Checkout.Tests.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\Supermarket.Checkout.Tests.pdb
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\nunit.framework.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\nunit.framework.xml
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\obj\Debug\Supermarket.Checkout.Tests.csprojResolveAssemblyReference.cache
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\obj\Debug\Supermarket.Checkout.Tests.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\obj\Debug\Supermarket.Checkout.Tests.pdb
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\Supermarket.Checkout.Domain.dll
+C:\Users\DermotKilroy\dev\coding_challenge\dermotkilroy\supermarket_checkout\Supermarket.Checkout.Cli\Supermarket.Checkout.Tests\bin\Debug\Supermarket.Checkout.Domain.pdb
